@@ -7,7 +7,7 @@ The first screen the user will see is the login screen. The purpose here is to c
 Open the project’s src/app/signup.component.ts file and include the following TypeScript code:
 
 ![](/./registration_files/screenshot15.png)
-There are some important things happening in the above code so we’re going to break it down.
+# There are some important things happening in the above code so we’re going to break it down.S
 
 Our intention is to bind an object to a form in the HTML markup. This object will be the register variable. In the constructor method we set each possible property as an empty value which will be reflected in the UI.
 
